@@ -15,7 +15,7 @@
   > *Key Skills:* FrontEnd (HTML, CSS, JS, ASP.net) | BackEnd (C#) | Database (MySQL)  
   > *Feedback:* "We found her sincere and hardworking throughout her internship."  
 - 🎯 After completing BCA in 2024, I joined **Parul University** for **MCA**  
-- 🧠 Currently improving my coding skills and learning **Python, Java, and Full-Stack Development**  
+- 🧠 Currently improving my coding skills and learning **Frontend Development, react.js, tailwind css, typescript etc....**  
 - 💡 My goal is to become a **skilled and creative developer** who builds impactful projects  
 
 ---
@@ -37,7 +37,7 @@
 |------|--------------------------|----------------|----------------|
 | 2021 – 2024 | **Maharaja Sayajirao University, Vadodara** | **BCA** | Coding, Computer Basics, Cyber Security |
 | Jan 2024 – Apr 2024 | **Vagisa Technology, Vadodara** | **Intern** | Frontend (HTML, CSS, JS, ASP.NET), Backend (C#), Database (MySQL) |
-| 2024 – Present | **Parul University** | **MCA (Ongoing)** | Advanced Programming, Full Stack Development, Project Work |
+| 2024 – Present | **Parul University** | **MCA (Ongoing)** | Advanced Programming, Full Stack Web Development, Project Work |
 
 ---
 
